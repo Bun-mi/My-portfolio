@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="/">Home</a>
+    <a href="about.html">About Me</a>
+    <a href="contact.html">Contact</a>
+    <br>
+    <h1>About Me</h1>
+    <br>
+    <img src="images/IMG_8484.JPG" alt="A picture of Myself" width="100">
+    <br>
+    
+    <br>
+    <h2>ACADEMIC QUALIFICATIONS</h2>
+    <p>
+        <table border>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>year</th>
+                    <th>course</th>
+                    <th>degree</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Landmark Unversity, Omu-aran, Kwara State</td>
+                    <td>2017-2021</td>
+                    <td>Accounting</td>
+                    <td>Bsc</td>
+                </tr>
+                <tr>
+                    <td>Aptech Ltd</td>
+                    <td>2023- till date</td>
+                    <td>web development</td>
+                    <td>Pending</td>
+                </tr>
+                <tr>
+                    <td>doulingo</td>
+                    <td>2023-till date</td>
+                    <td>French Language</td>
+                    <td>Pending</td>
+                </tr>
+            </tbody>
+        </table>
+    </p>
+    <br>
+    <h2>SKILLS</h2>
+    <p>
+        
+    </p>
+
+    
+</body>
+</html>
